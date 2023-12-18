@@ -206,12 +206,21 @@ ul#nav li.current a { color: #fe6928; }
    height: 120px;
    border-radius: 100%;
 }
-#about .contact-details { width: 41.66667%; }
+#about .main-col p{
+   text-align: justify;
+}
+
+#about .contact-details { 
+   width: 41.66667%; 
+   text-align: left;
+}
 #about .download {
    width: 58.33333%;
    padding-top: 6px;
 }
 #about .main-col { padding-right: 5%; }
+ 
+
 #about .download .button {
    margin-top: 6px;
    background: #444;

@@ -3,6 +3,47 @@
         "name": "Sasono D Ageng Saputra",
         "description": "Fullstact Developer",
         "github": "https://github.com/agen07sdas",
-        "project": "https://html-css-js-project-weather-app.vercel.app/"
+        "project": "https://html-css-js-project-weather-app.vercel.app/",
+        "bio": "Lulusan Informatika Universitas Sahid Surakarta, dengan pengalaman organisasi di HIMATIF(HIMPUNAN MAHASISWA TEKNIK INFORMATIKA), LDK, dan MAPALA. Memiliki sedikit pengalaman dalam pengembangan frontend (HTML, CSS, JavaScript). Saat ini, saya memiliki keinginan yang kuat untuk lebih meningkatkan keterampilan saya dalam pengembangan web, khususnya di frontend profesional.",
+        "image": "sdas.jpeg",
+        "contactmessage": "pesannn aj",
+        "phone": "0823-1428-3774",
+        "address": {
+            "street": "alamat",
+            "city": "alamat",
+            "state": "alamat",
+            "zip": "YOUR ZIP"
+        },
+        "website": "https://github.com/agen07sdas",
+        "resumedownload": "https://github.com/agen07sdas",
+        "social":[
+            {
+                "name": "facebook",
+                "url": "https://github.com/agen07sdas",
+                "className": "fa fa-facebook"
+            },
+            {
+                "name":"twitter",
+                "url":"http://twitter.com",
+                "className":"fa fa-twitter"
+            },
+            {
+                "name":"linkedin",
+                "url":"https://www.linkedin.com/in/sasono-d-ageng-saputra/",
+                "className":"fa fa-linkedin"
+            },
+            {
+                "name":"instagram",
+                "url":"http://instagram.com/ageng02saputra",
+                "className":"fa fa-instagram"
+            },
+            {
+                "name":"github",
+                "url":"https://github.com/agen07sdas",
+                "className":"fa fa-github"
+            }
+
+        ]
+
     }
 }
