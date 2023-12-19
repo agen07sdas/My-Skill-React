@@ -888,6 +888,11 @@ call-to-action .button {
 	color: #0762f9;
 	font-size: 13px;
 }
+
+#contact aside {
+   text-align: justify;
+}
+
 #message-warning, #message-success {
    display: none;
 	background: #0F0F0F;

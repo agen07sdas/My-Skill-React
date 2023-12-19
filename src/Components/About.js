@@ -1,5 +1,5 @@
 import React, {Component} from "react"
-import {Fade} from 'react-awesome-reveal' //slide ke kanan
+import {Fade, Slide} from 'react-awesome-reveal' //slide ke kanan
 
 class About extends Component {
     render() {
