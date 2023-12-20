@@ -44,7 +44,110 @@
                 "className":"fa fa-github"
             }
 
-        ]
+        ],
+        "resume": {
+            "skillmessage": "this is my skill",
+            "education": [
+                {
+                    "school": "Universitas Sahid Surakarta",
+                    "degree": "S1 Informatika",
+                    "graduated": "Maret 2024",
+                    "description": "afther graduated iam learn about Fullstact Developer"
+                },
+                {
+                    "school": "Ma'had KH. Ahmad Dahlan",
+                    "degree": "MTS-MA",
+                    "graduated": "Juni 2019",
+                    "description": "iam learn about islam and 6 years"
+                }
+            ],
+            "work": [
+                {
+                    "company": "SMK Kasatriyan Surakarta",
+                    "title": "WEB Developer",
+                    "years": "juni 2023 - agustus 2023",
+                    "description": "Designing and developing websites for clients using HTML5, CSS3, JavaScript, PHP, SQL Server."
+                },
+                {
+                    "company": "MySkill",
+                    "title": "Freelance Web Developer & Designer",
+                    "years": "Agustus 2023 - sekarang",
+                    "description": "Designing responsive HTML5/CSS3 websites to make them look good on all devices."
+                }
+            ],
+            "skills": [
+                {
+                    "name": "HTML",
+                    "level": "85%"
+                },
+                {
+                    "name": "CSS",
+                    "level": "90%"
+                },
+                {
+                    "name": "JavaScript",
+                    "level": "80%"
+                },
+                {
+                    "name": "github",
+                    "level": "80%"
+                },
+                {
+                    "name": "React JS",
+                    "level": "50%"
+                },
+                {
+                    "name": "PHP",
+                    "level": "80%"
+                }
+            ]
+        },
+        "portofolio": {
+            "projects": [
+                {
+                    "id": "1",
+                    "title": "Website SMK Kasatriyan",
+                    "category": "website sekolah",
+                    "image": "07.png",
+                    "url": "https://smkkasatriyansurakarta.my.id/"
+                },
+                {
+                    "id": "2",
+                    "title": "Weather apps",
+                    "category": "Mini Projects",
+                    "image": "08.png",
+                    "url": "https://html-css-js-project-weather-app.vercel.app/"
+                },
+                {
+                    "id": "3",
+                    "title": "Todo List",
+                    "category": "Mini Projects",
+                    "image": "09.png",
+                    "url": "https://html-css-js-project-to-do-list-app.vercel.app/"
+                },
+                {
+                    "id": "4",
+                    "title": "Calculator",
+                    "category": "Mini Projects",
+                    "image": "10.png",
+                    "url": "https://html-css-js-project-simple-calculator.vercel.app/"
+                },
+                {
+                    "id": "5",
+                    "title": "Todo List v.2",
+                    "category":"Mini Projects",
+                    "image": "11.png",
+                    "url": "https://html-css-js-project-to-do-list-app-versi-2.vercel.app/"
+                },
+                {
+                    "id" : "6",
+                    "title": "List Books",
+                    "category" : "Mini Projects",
+                    "image": "12.png",
+                    "url": "https://list-book-app.vercel.app/"
+                }
+            ]
+        }
 
     }
 }

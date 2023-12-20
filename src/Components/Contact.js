@@ -1,5 +1,5 @@
-import React, {Component} from "react"
-import {Fade, Slide} from 'react-awesome-reveal' //slide ke kanan
+import { Component } from "react";
+import {Fade, Slide } from "react-awesome-reveal"; //slide ke kanan
 
 class Contact extends Component {
     render() {
@@ -26,7 +26,7 @@ class Contact extends Component {
                     </div>
                 </Fade>
                 <div className="row">
-                    <Slide left duration={1000}>
+                    <Slide left duration={1300}>
                         <div className=" eight columns">
                             <form action="" method="post" id="contactForm">
                                 <fieldset>
@@ -70,9 +70,10 @@ class Contact extends Component {
                                         <label htmlFor="contactMessage">Message <span className="require">*</span> </label>
                                         <textarea
                                             cols="50"
-                                            rows="15"
+                                            rows="10"
                                             id="contactMessage"
                                             name="contactMessage"
+                                            resize="false"
                                         ></textarea>
                                     </div>
                                     <div>
@@ -113,7 +114,7 @@ class Contact extends Component {
                                     <li>
                                         <span>
                                             This is Photoshop's version of Lorem Ipsum and is used to demonstrate the visual effects of different typography over an
-                                            <a href="https://github.com/agen07sdas"></a>
+                                            <a href="https://github.com/agen07sdas">git</a>
                                         </span>
                                         <b>
                                             <a href="./">2 Days ago</a>
@@ -122,7 +123,7 @@ class Contact extends Component {
                                     <li>
                                         <span>
                                             This is Photoshop's version of Lorem Ipsum and is used to demonstrate the visual effects of different typography over an
-                                            <a href="https://github.com/agen07sdas"></a>
+                                            <a href="https://github.com/agen07sdas">git</a>
                                         </span>
                                         <b>
                                             <a href="https://github.com/agen07sdas">3 Days ago</a>
